@@ -1,10 +1,18 @@
 [
-  {
-    "author": "Pete Hunt",
-    "text": "Hey there!"
-  },
-  {
-    "author": "dulkappa",
-    "text": "I'm beginner of React.js!"
-  }
+    {
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "author": "dulkappa",
+        "text": "I'm beginner of React.js!"
+    },
+    {
+        "author": "penguin",
+        "text": "!!!"
+    },
+    {
+        "author": "kappa",
+        "text": "hahaha!"
+    }
 ]
